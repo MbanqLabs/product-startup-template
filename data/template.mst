@@ -51,7 +51,22 @@
           </p>
         </div>
       </div>
-      <img src="img/product.png" class="img-fluid" alt="">
+
+      <div class="row">
+        <div class="col-8 offset-2 my-auto center-block">
+          <div class="device-container">
+            <div class="device-mockup macbook_2015">
+              <div class="device">
+                <div class="screen">
+                  <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                  <img src="img/product.png" class="img-fluid" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </section>
   {{/aboutSection}}
