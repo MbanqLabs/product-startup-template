@@ -1,0 +1,121 @@
+{
+  "main": {
+    "startupName": "Startup Name",
+    "vision": "Our vision is to make the world a better place!",
+    "headerSection": {
+      "buttonTitle": "Learn more"
+    },
+    "aboutSection": {
+      "title": "Our startup will change the world",
+      "description": "We create our startup with the idea to help people realize their true potential by using our products"
+    },
+    "featuresSection": {
+      "coreFeature": {
+        "title": "Core Feature",
+        "description": "Core Feature of our product is its awesome UX and UI that allows you to express yourself in the best possible way without compromising..."
+      },
+      "firstFeature": {
+        "title": "First Feature",
+        "description": "First great feature of our awesome product"
+      },
+      "secondFeature": {
+        "title": "Second Feature",
+        "description": "Second great feature of our awesome product"
+      }
+    },
+    "teamSection": {
+      "teamMembers": [
+        {
+          "img": "https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg",
+          "name": "Joanna Daa",
+          "description": "Joanna Daa has 50 years experience in product development",
+          "socialNetworks": [
+            {
+              "name": "linkedin",
+              "link": "#"
+            },
+            {
+              "name": "twitter",
+              "link": "#"
+            }
+          ]
+        },
+        {
+          "img": "https://mdbootstrap.com/img/Photos/Avatars/img%20(3).jpg",
+          "name": "John Doe",
+          "description": "John Doe has 100 years of experience in marketing.",
+          "socialNetworks": [
+            {
+              "name": "linkedin",
+              "link": "#"
+            },
+            {
+              "name": "twitter",
+              "link": "#"
+            }
+          ]
+        },
+        {
+          "img": "https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg",
+          "name": "Jenna Dee",
+          "description": "Jenna Dee has 150 years of experience in sales.",
+          "socialNetworks": [
+            {
+              "name": "linkedin",
+              "link": "#"
+            },
+            {
+              "name": "twitter",
+              "link": "#"
+            }
+          ]
+        }
+      ]
+    },
+    "signupSection": {
+      "title": "Subscribe to receive updates!",
+      "inputPlaceholder": "Enter your email address...",
+      "buttonTitle": "Subscribe"
+    },
+    "contactSection": {
+      "contactItems": [
+        {
+          "name": "Address",
+          "icon": "map-marked-alt",
+          "text": "4923 Market Street, Orlando FL",
+          "link": "https://www.google.com/maps/place/4923 Market Street, Orlando FL"
+        },
+        {
+          "name": "Email",
+          "icon": "envelope",
+          "text": "hello@yourstartup.com",
+          "link": "mailto:hello@yourstartup.com"
+        },
+        {
+          "name": "Phone",
+          "icon": "mobile-alt",
+          "text": "+1 555-55-555",
+          "link": "tel:+1 555-55-555"
+        }
+      ],
+      "socialNetworks": [
+        {
+          "name": "linkedin",
+          "link": "#"
+        },
+        {
+          "name": "twitter",
+          "link": "#"
+        },
+        {
+          "name": "facebook",
+          "link": "#"
+        },
+        {
+          "name": "github",
+          "link": "#"
+        }
+      ]
+    }
+  }
+}
