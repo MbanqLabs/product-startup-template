@@ -1,13 +1,15 @@
+[![Build Status](https://travis-ci.com/MbanqLabs/product-startup-template.svg?branch=master)](https://travis-ci.com/MbanqLabs/product-startup-template)
+
 # product-startup-template
+Static landing page template for the [Mbanq Labs](https://labs.mbanq.io)
+startups.
 
-https://mbanqlabs.github.io/product-startup-template
+The preview can be found at https://mbanqlabs.github.io/product-startup-template
 
-## Header
+The template utilizes `mustache` for the configurability.
 
-## About
+The `mustache` template can be found in `./data/template.mst`
 
-## Features
+All the texts and button titles can be found and changed in `./data/startup.json`
 
-## Team
-
-## Contact
+![product-startup-template](./product-startup-template.png)
