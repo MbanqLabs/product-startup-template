@@ -18,7 +18,7 @@ const pkg = require('./package.json');
 
 // Set the banner content
 const banner = ['/*!\n',
-  ' * Start Bootstrap - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',
+  ' * Mbanq Labs Startup Templates - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',
   ' * Copyright 2013-' + (new Date()).getFullYear(), ' <%= pkg.author.name %>(<%= pkg.author.url %>)\n',
   ' * Licensed under <%= pkg.license %> (https://github.com/MbanqLabs/<%= pkg.name %>/blob/master/LICENSE)\n',
   ' */\n',
