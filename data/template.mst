@@ -142,17 +142,21 @@
       <div class="row">
         {{#teamMembers}}
         <div class="col">
-          <div class="card" style="width: 18rem; text-align: center;">
+          <div class="card mx-auto h-100" style="width: 18rem; text-align: center;">
             <img class="card-img-top avatar size-4 mx-auto" src="{{ img }}" alt="{{ name }}">
-            <div class="card-body">
-              <h3 class="card-title">{{ name }}</h3>
-              <hr class="my-4">
-              <p class="card-text">{{ description }}</p>
-              {{#socialNetworks}}
-              <a href="{{ link }}">
-                <i class="fab fa-{{ name }} fa-lg"></i>
-              </a>
-              {{/socialNetworks}}
+            <div class="card-body d-flex flex-column">
+              <div class="mb-4">
+                <h3 class="card-title">{{ name }}</h3>
+                <hr class="my-4">
+                <p class="card-text">{{ description }}</p>
+              </div>
+              <div class="mt-auto">
+                {{#socialNetworks}}
+                <a href="{{ link }}">
+                  <i class="fab fa-{{ name }} fa-lg"></i>
+                </a>
+                {{/socialNetworks}}
+              </div>
             </div>
           </div>
         </div>

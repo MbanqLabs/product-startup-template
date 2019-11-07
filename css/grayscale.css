@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Product Startup v1.0.0 (https://github.com/MbanqLabs/product-startup-template)
- * Copyright 2013-2019 [object Object]
+ * Copyright 2013-2019 Mbanq Labs
  * Licensed under MIT (https://github.com/MbanqLabs/product-startup-template/blob/master/LICENSE)
  */
 
@@ -174,10 +174,6 @@
 .team-section {
   padding: 10rem 0;
   background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
-}
-
-.team-section p {
-  margin-bottom: 5rem;
 }
 
 .features-section {
