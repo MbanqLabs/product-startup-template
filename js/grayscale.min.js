@@ -1,6 +1,6 @@
 /*!
- * Start Bootstrap - Product Startup v1.0.0 (https://github.com/MbanqLabs/product-startup-template)
- * Copyright 2013-2019 Mbanq Labs(https://labs.mbanq.io)
+ * Mbanq Labs Startup Templates - Product Startup v1.0.0 (https://github.com/MbanqLabs/product-startup-template)
+ * Copyright 2013-2020 Mbanq Labs(https://labs.mbanq.io)
  * Licensed under MIT (https://github.com/MbanqLabs/product-startup-template/blob/master/LICENSE)
  */
 
